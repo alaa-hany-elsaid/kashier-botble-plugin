@@ -1,0 +1,10 @@
+{
+    "name": "Kashier Payment Gateway",
+    "namespace": "Alaa\\Kashier\\",
+    "provider": "Alaa\\Kashier\\Providers\\KashierServiceProvider",
+    "author": "Alaa Elsaid",
+    "url": "https://alaahany.name",
+    "version": "1.0",
+    "description": "Kashier payment gateway integration",
+    "require": []
+}

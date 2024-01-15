@@ -1,5 +1,5 @@
 # kashier-botble-plugin
-##### This is the payment gateway integration of payment platform esewa. It is a plugin made to work on [Botble CMS](https://1.envato.market/yRg6kB) .
+##### This is the payment gateway integration of payment platform Kashier. It is a plugin made to work on [Botble CMS](https://1.envato.market/yRg6kB) .
 ` Note: This plugin works best with [payment] and [ecommerce] plugin activated. But you can modify and make it to work however you like. `
 ## How to use kashier-botble-plugin ?
 - Simply download the repository.
